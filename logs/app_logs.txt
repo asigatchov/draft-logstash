@@ -1,0 +1,8 @@
+{"@version":"1","host":"172.17.0.1","@timestamp":"2017-11-02T13:49:42.025Z","message":"GET / HTTP/1.1\r","port":37806,"tags":["_jsonparsefailure"]}
+{"@version":"1","host":"172.17.0.1","@timestamp":"2017-11-02T13:49:42.028Z","message":"Host: 127.0.0.1:5228\r","port":37806,"tags":["_jsonparsefailure"]}
+{"@version":"1","host":"172.17.0.1","@timestamp":"2017-11-02T13:49:42.029Z","message":"User-Agent: curl/7.47.0\r","port":37806,"tags":["_jsonparsefailure"]}
+{"@version":"1","host":"172.17.0.1","@timestamp":"2017-11-02T13:49:42.030Z","message":"Accept: */*\r","port":37806,"tags":["_jsonparsefailure"]}
+{"@version":"1","host":"172.17.0.1","@timestamp":"2017-11-02T14:07:27.811Z","message":"GET / HTTP/1.1\r","port":38858,"tags":["_jsonparsefailure"]}
+{"@version":"1","host":"172.17.0.1","@timestamp":"2017-11-02T14:07:27.814Z","message":"Host: 127.0.0.1:5228\r","port":38858,"tags":["_jsonparsefailure"]}
+{"@version":"1","host":"172.17.0.1","@timestamp":"2017-11-02T14:07:27.815Z","message":"User-Agent: curl/7.47.0\r","port":38858,"tags":["_jsonparsefailure"]}
+{"@version":"1","host":"172.17.0.1","@timestamp":"2017-11-02T14:07:27.816Z","message":"Accept: */*\r","port":38858,"tags":["_jsonparsefailure"]}
